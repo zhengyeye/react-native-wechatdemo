@@ -65,7 +65,7 @@ export default class wechatdemo extends Component {
                           description: 'zheng小叶的分享',
                           thumbImage: '//upload.jianshu.io/users/upload_avatars/4106836/31a92241-30ea-47c7-ae24-9b8958433011.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240',
                           type: 'news',
-                          webpageUrl: 'http://www.jianshu.com/p/89ec01242e79'
+                          webpageUrl: 'http://www.cnblogs.com/zhengyeye/'
                         })
                         .catch((error) => {
                           ToastShort(error.message);
@@ -101,7 +101,7 @@ export default class wechatdemo extends Component {
                           description: 'zheng小叶的分享',
                           thumbImage: '//upload.jianshu.io/users/upload_avatars/4106836/31a92241-30ea-47c7-ae24-9b8958433011.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240',
                           type: 'news',
-                          webpageUrl: 'http://www.jianshu.com/p/89ec01242e79'
+                          webpageUrl: 'http://www.cnblogs.com/zhengyeye/'
                         })
                         .catch((error) => {
                           ToastShort(error.message);
